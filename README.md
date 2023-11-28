@@ -1,4 +1,4 @@
-![logo](https://github.com/sashank-27/sashank-27/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/sashank-27/sashank-27/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm sashank bulusu</h1>
 <h3 align="center">Deep learning | Machine learning | Full stack developer</h3>
 
